@@ -1,0 +1,3 @@
+#!/bin/bash
+javascript-ctags -t /tmp/jstags $1
+cat /tmp/jstags
